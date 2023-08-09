@@ -1,0 +1,4 @@
+#ifndef LUASCF_EXMATH_H
+#define LUASCF_EXMATH_H
+
+#endif //LUASCF_EXMATH_H

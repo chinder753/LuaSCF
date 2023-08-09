@@ -1,0 +1,12 @@
+# ninja log v5
+185	574	1691034331509008500	CMakeFiles/LuaSCF.dir/lib_C/extype/Matrix.c.o	435d945e1b14ba5a
+1	177	1691034331099008500	CMakeFiles/LuaSCF.dir/lib_C/fftw/interface_fftw.c.o	10804e271264ae4a
+107	185	1691034331099008500	CMakeFiles/LuaSCF.dir/lib_C/openblas/interface_blas.c.o	ce4b16955cf549a
+0	20	1691055427810319500	build.ninja	6b3735d94b0c09fe
+0	29	1691034427499008500	CMakeFiles/test.dir/test/test.c.o	e04d17b4a3237487
+0	91	1691034331029008500	CMakeFiles/LuaSCF.dir/lib_C/exmath/exmath.c.o	e47f0d9a503f36eb
+29	200	1691034427669008500	test	f5b8aeb773806dea
+91	185	1691034331109008500	CMakeFiles/LuaSCF.dir/lib_C/libcint/interface_libcint.c.o	de7e2dc63db5847b
+0	107	1691034331039008500	CMakeFiles/LuaSCF.dir/lib_C/exblas/exblas.c.o	3145d9071947faec
+177	610	1691034331549008500	CMakeFiles/LuaSCF.dir/lib_C/extype/Array.c.o	9d5624e4b0b3ad24
+610	669	1691034331599008500	libLuaSCF.a	725f37204ca42e8e
